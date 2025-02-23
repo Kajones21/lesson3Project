@@ -1,0 +1,19 @@
+.goalsHeader {
+    color: blue;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.name {
+    color: green;
+}
+
+
+#listItemLarge{
+    font-size: 20px;
+}
+
+body{
+    background-color: bisque;
+}
