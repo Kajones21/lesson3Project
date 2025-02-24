@@ -1,6 +1,10 @@
 /* .headers{
     text-align: center;
-} */
+    display: flex;
+    -display:flex << makes text into a straight line
+    justify-content: space-around/space-evenly
+    -space around each other evenly
+    } */
 
 .goalsHeader {
     color: brown;
@@ -15,8 +19,8 @@
     text-align: left;
 }
 
-p{
-    color:black;
+.ListandActionContainer{
+color: black;
 }
 
 
